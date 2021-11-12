@@ -5,3 +5,4 @@
   <img src="https://media.giphy.com/media/gtuQIOTlQdk9Mx3L5i/giphy.gif" width="600" height="250"/>
  </div>
  
+![Snake animation](https://github.com/LucasRodrigoADS/LucasRodrigoADS/blob/output/github-contribution-grid-snake.svg)
